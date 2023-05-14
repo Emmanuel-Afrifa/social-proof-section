@@ -1,6 +1,6 @@
-# Frontend Mentor - Testimonials grid section solution
+# Frontend Mentor - Social proof section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 - [Overview](#overview)
@@ -15,11 +15,11 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Overview
 ### Screenshot
-![Screenshot of the webpage](./images/Web%20capture_8-5-2023_213036_127.0.0.1.jpeg)
+![Screenshot of the webpage](./images/Web%20capture_14-5-2023_184717_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](https://github.com/Emmanuel-Afrifa/testimonial-grid-section)
-- [Deployed site](https://testimonial-grid-frontend.netlify.app/)
+- [Github repository](https://github.com/Emmanuel-Afrifa/social-proof-section)
+- [Deployed site](https://social-proof-section-sol-frontend.netlify.app/)
 
 ## Process
 ### Tools Used
@@ -29,7 +29,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - Grid
 
 ### What's new?
-I used CSS grid for the layout of the desktop view and flex for the mobile view.
+I used flex for the layout of the page and also added two backgrounds (bottom and top) to the body of the page.
 
 ## Author
 - Emmanuel Afrifa
