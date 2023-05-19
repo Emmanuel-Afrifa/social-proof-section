@@ -15,7 +15,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Overview
 ### Screenshot
-![Screenshot of the webpage](./images/Web%20capture_14-5-2023_184717_127.0.0.1.jpeg)
+![Screenshot of the webpage](./images/Web%20capture_19-5-2023_223811_127.0.0.1.jpeg)
 
 ### Links
 - [Github repository](https://github.com/Emmanuel-Afrifa/social-proof-section)
